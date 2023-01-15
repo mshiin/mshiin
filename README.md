@@ -5,5 +5,5 @@
 
 
 ## Work Experience 💻
-
+💻 Technical Architecture Manager (**Current**) [Accenture Cloud Services](https://www.accenture.com/au-en/cloud/) 
 💻 Tier 1 NOC Engineer (Nov 2021 - Jan 2023) [Macquarie Cloud Services](https://macquariecloudservices.com/)
