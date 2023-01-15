@@ -9,3 +9,25 @@
 💻 Technical Architecture Manager (**Current**) [Accenture Cloud Services, AU](https://www.accenture.com/au-en/cloud/)
 
 💻 Tier 1 NOC Engineer (Nov 2021 - Jan 2023) [Macquarie Cloud Services, AU](https://macquariecloudservices.com/)
+
+
+## 😀 A little more about me 💻
+
+I'm an IT professional living in Australia and working as a Cloud Engineer. 
+
+Mainly of my professionals experiences are focused in Cloud Infrastructure.
+
+
+# ⚙️ Technologies and Tools
+
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
