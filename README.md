@@ -22,6 +22,10 @@ I'm an IT professional living in Australia and working as a Cloud Engineer.
 
 Mainly of my professionals experiences are focused in Cloud Infrastructure.
 
+Have a passion for implementing DevOps practices and building automated infrastructure pipelines.  
+
+Have experience working with cloud platforms such as Azure and AWS.
+
 
 ## ⚙️ Technologies and Tools
 
