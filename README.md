@@ -10,6 +10,11 @@
 
 💻 Tier 1 NOC Engineer (Nov 2021 - Jan 2023) [Macquarie Cloud Services, AU](https://macquariecloudservices.com/)
 
+## 📜 Certifications
+- **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
+- **Microsoft Certified: Azure Administrator (AZ-104)**
+- **Cisco Certified Network Associate (CCNA 200-301)**
+
 
 ## 😀 A little more about me 💻
 
@@ -18,7 +23,7 @@ I'm an IT professional living in Australia and working as a Cloud Engineer.
 Mainly of my professionals experiences are focused in Cloud Infrastructure.
 
 
-# ⚙️ Technologies and Tools
+## ⚙️ Technologies and Tools
 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 
