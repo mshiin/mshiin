@@ -4,12 +4,6 @@
 <a href = "mailto:mshin1303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-## Work Experience 💻
-
-💻 Cloud Infrastructure Engineer (**Current**) [Accenture Cloud Services, AU](https://www.accenture.com/au-en/cloud/) 
-
-💻 Tier 1 NOC Engineer (Nov 2021 - Jan 2023) [Macquarie Cloud Services, AU](https://macquariecloudservices.com/)
-
 ## 📜 Certifications
 - **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
 - **Microsoft Certified: Azure Administrator (AZ-104)**
